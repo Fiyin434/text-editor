@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+textarea {
+width: 85%;
+height: 200px;
+font-size: 16px;
+font-family: "Roboto", sans-serif;
+margin: 15px;
+padding: 10px;
+}
+
+label{
+    margin-left: 20px;
+   
+}
+#background{
+    background-color: rgba(12, 27, 116, 0.884);
+    padding: 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    color: aliceblue;
+}
+
+#fontSize{
+    margin-top: 20px;
+    width: 40px;
+    border-radius: 2px;
+    border: none;
+}
+#fontFamily{
+    width: 60px;
+    border-radius: 2px;
+    border: none;
+}
+#btn{
+    margin: 5px;
+}
+#italic-btn{
+    margin: 5px;
+    width: 12px;
+    margin-right: 0px;
+}
+#backgroundColorInput{
+    width: 20px;
+    border-radius: 2px;
+    border: none;
+    height: 15px;
+    
+}
+#lineHeight{
+    width: 40px;
+}
+#textColorInput{
+    width: 20px;
+    border-radius: 2px;
+    border: none;
+    height: 15px;
+}
+#textAlignment{
+    width: 50px;
+    border-radius: 2px;
+    border: none;
+}
+#lineHeight{
+    width: 40px;
+    border-radius: 2px;
+    border: none;
+}
+#textArea{
+    width: 80%;
+  height: 100vh;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  
+}
+#body-background{
+    background-color: rgb(154, 156, 155);
+    padding-left: 160px;
+    padding-top: 20px;
+    border: none;
+}
+#bold-btn{
+    margin-left: 7px;
+}
+#italic-btn{
+    width: 15px;
+}
